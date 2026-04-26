@@ -9,9 +9,9 @@ Heart Disease (which includes Coronary Heart Disease, Hypertension, and Stroke) 
 
 ## Project Overview
 
-In this Project I will try to unleash useful insights using this heart disease datasets and will perform feature selection to build Soft Voting Ensemble model by combining the power of best performing machine learning algorithms.
+In this Project, I will extract useful insights from the heart disease dataset and perform feature selection to build a Soft Voting Ensemble model that combines the strengths of the best-performing machine learning algorithms.
 
-This Project is divided into 13 major steps which are as follows:
+This Project is divided into 13 major steps, which are as follows:
 
 1. [Data description](#data-desc)
 2. [Importing Libraries & setting up environment](#imp-lib)
@@ -31,7 +31,7 @@ This Project is divided into 13 major steps which are as follows:
 
 This dataset consists of 11 features and a target variable. It has 6 nominal variables and 5 numeric variables. The detailed description of all the features are as follows:
 
-**1. Age:** Patients Age in years (Numeric)<br>
+**1. Age:** Patients' Age in years (Numeric)<br>
 **2. Sex:** Gender of patient (Male - 1, Female - 0) (Nominal)<br>
 **3. Chest Pain Type:** Type of chest pain experienced by patient categorized into 1 typical, 2 typical angina, 3 non-anginal pain, 4 asymptomatic (Nominal)<br>
 **4. resting bp s:** Level of blood pressure at resting mode in mm/HG (Numerical)<br>
