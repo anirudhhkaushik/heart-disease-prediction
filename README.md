@@ -1,4 +1,7 @@
-# Heart Disease Prediction Machine Learning
+#Name-Anirudh Pal Kaushik(2210991268)
+#Title-Comparative Analysis of Machine Learning Algorithms for Heart Disease Prediction 
+#Research Paper
+
 
 ## About Heart Disease
 
