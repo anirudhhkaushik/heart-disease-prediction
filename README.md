@@ -87,7 +87,4 @@ I have done model evaluation based on following sklearn metric.
 
 # HeartDisease
 
-## Project Documents
 
-- Research Paper: [View](docs/research_paper.docx)
-- Presentation: [View](docs/presentation.pptx)
