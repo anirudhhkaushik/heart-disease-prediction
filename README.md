@@ -86,3 +86,8 @@ I have done model evaluation based on following sklearn metric.
 8. [Mathew Correlation coefficient](https://www.kaggle.com/dansbecker/what-is-log-loss#:~:text=Log%20Loss%20is%20a%20slight,by%20understanding%20the%20likelihood%20function.)
 
 # HeartDisease
+
+## Project Documents
+
+- Research Paper: [View](docs/research_paper.docx)
+- Presentation: [View](docs/presentation.pptx)
