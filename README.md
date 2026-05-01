@@ -1,4 +1,4 @@
-# Heart Disease Prediction Using Feature selection and Machine Learning Ensemble
+# Heart Disease Prediction Machine Learning 
 
 ## About Heart disease
 
